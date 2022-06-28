@@ -1,0 +1,13 @@
+# Node build artifacts
+npm-debug.log
+
+# Local development
+lovepad-860c7-firebase-adminsdk-wvev3-6ccca651eb.json
+*.env
+*.dev
+.DS_Store
+
+# Docker
+Dockerfile
+docker-compose.yml
+node_modules
